@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>ITE18</title>
+	</head>
+	<body>
+		<h1>My First Web Page</h1>
+		<p><strong>Name:</strong> Gagay Tayobong</p>
+		<p><strong>Course & Section:</strong> BSIT</p>
+	</body>
+</html>
